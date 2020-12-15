@@ -1,19 +1,19 @@
-# theme.toml for the Airspace Hugo theme
+# theme.toml
 
-name = "Airspace Hugo"
-license = "CC BY 3.0"
+name = "Evolve Café"
+license = "Vitor Pio CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Hugo port of the Themefisher’s Airspace theme"
-homepage = "https://gethugothemes.com/products/airspace-hugo-theme/"
+description = "Um espaço para compartilhar experiências."
+homepage = "https://evolvecafe.me"
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher"]
 features = ["blog", "company", "responsive", "seo-friendly"]
 min_version = "0.64.0"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "Vitor Pio"
+  homepage = "https://www.youtube.com/channel/UCwsRITYlQftMPezSJ8xlPWg"
 
 [original]
-  name = "Airspace"
-  homepage = "https://themefisher.com/products/airspace-free-bootstrap-website-template/"
-  repo = "https://github.com/themefisher/airspace-free-html5-agency-template"
+  name = "Evolve Café"
+  homepage = "https://evolvecafe.me"
+  repo = "https://github.com/evolvecafe/site-evolve"

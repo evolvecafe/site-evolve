@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
-title = "Airspace | Creative Agency Hugo Template"
+baseURL = "https://evolvecafe.me"
+title = "Evolve Café | Um espaço para compartilhar experiências."
 theme = "airspace-hugo"
 themesDir = "../.."
 # post pagination
