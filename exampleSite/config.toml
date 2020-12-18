@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://evolvecafe.me"
 title = "Evolve Café | Um espaço para compartilhar experiências."
-theme = "airspace-hugo"
+theme = "site-evolve"
 themesDir = "../.."
 # post pagination
 paginate = "4"
@@ -86,14 +86,14 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "60px"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Evolve Café"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+mobile = "#"
+email = "contatoevolvecafe@gmail.com"
+location = "Campinas"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -158,7 +158,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) todos os direitos reservados."
 
 
 ######################### english navigation #############################
@@ -169,12 +169,12 @@ URL = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
+name = "Sobre"
 URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Project"
+name = "Projetos"
 URL = "project"
 weight = 3
 
@@ -204,7 +204,7 @@ hasChildren = true
   URL = "service"
   
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "Contato"
 URL = "contact"
 weight = 6
 
