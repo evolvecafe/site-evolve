@@ -2,9 +2,9 @@
 title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work2.jpg"
+image : "images/portfolio/cafe_janelasquebradas.jpeg"
 bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+category: "Cafés Presenciais"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

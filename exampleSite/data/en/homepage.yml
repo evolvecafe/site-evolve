@@ -89,30 +89,45 @@ funfacts:
       count : "200"
 
   testimonial_slider:
+
+    # testimonial item loop
+    - name : "Talita Neves"
+      image : "images/clients/img_talita.jpeg"
+      designation : "Supervisora de Admissões - UniMetrocamp"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+
     # testimonial item loop
     - name : "Vitor Pio"
-      image : "images/clients/avater-1.png"
+      image : "images/clients/img_vitor.png"
       designation : "Fundador - PrivacyMap"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
                 
     # testimonial item loop
     - name : "Jamile Lima Pio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
+      image : "images/clients/img_jamile.jpeg"
+      designation : "Analista de RH - CI&T"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
                 
     # testimonial item loop
     - name : "Franciele Alessandra Parro"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
+      image : "images/clients/img_franciele.jpeg"
+      designation : "Analista Administrativo - Otto Gübel Sociedade de Advogados"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
     
     # testimonial item loop
-    - name : "Robert Adam Silva"
-      image : "images/clients/avater-2.jpg"
-      designation : "CEO-Themefisher"
+    - name : "Robert Adam"
+      image : "images/clients/img_robert.jpeg"
+      designation : "Desenvolvedor Java - Sensedia"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    
+    # testimonial item loop
+    - name : "Viviane Sanchez"
+      image : "images/clients/img_viviane.jpeg"
+      designation : "Analista Administrativo"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
