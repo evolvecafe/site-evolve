@@ -8,9 +8,9 @@ paginate = "4"
 # post excerpt
 summaryLength = "30"
 # disqus short name
+disableLanguages = ["fr", "en"]
 disqusShortname = "" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = []
+DefaultContentLanguage = "pt"
 
 ################################# Outputs #################################
 # hugo outputs
@@ -151,180 +151,151 @@ icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
+################################ Portuguese Language ########################
+[Languages.pt]
+languageName = "Pt"
+languageCode = "pt-br"
 contentDir = "content/english"
 weight = 1
 # copyright
 copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) todos os direitos reservados."
 
 
-######################### english navigation #############################
+######################### Portuguese navigation #############################
 # main menu
-[[Languages.en.menu.main]]
+[[Languages.pt.menu.main]]
 name = "Home"
 URL = "/"
 weight = 1
 
-[[Languages.en.menu.main]]
+[[Languages.pt.menu.main]]
 name = "Sobre"
 URL = "about"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Projetos"
+[[Languages.pt.menu.main]]
+name = "Projeto"
 URL = "project"
 weight = 3
 
-[[Languages.en.menu.main]]
+[[Languages.pt.menu.main]]
 name = "Blog"
 URL = "blog"
 weight = 4
 
-[[Languages.en.menu.main]]
+[[Languages.pt.menu.main]]
+name = "FAQ"
+URL = "faq"
 weight = 5
-name = "Pages"
-hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Service"
-  URL = "service"
-  
-[[Languages.en.menu.main]]
+[[Languages.pt.menu.main]]
 name = "Contato"
 URL = "contact"
 weight = 6
 
 
 # footer menu
-[[Languages.en.menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[Languages.en.menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[Languages.en.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[Languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
-
-[[Languages.en.menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 6
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-# copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-
-
-######################### france navigation #############################
-# main menu
-[[Languages.fr.menu.main]]
-name = "Accueil"
+[[Languages.pt.menu.footer]]
+name = "Home"
 URL = "/"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "À propos"
+[[Languages.pt.menu.footer]]
+name = "Sobre"
 URL = "about"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "Projet"
+[[Languages.pt.menu.footer]]
+name = "Projeto"
 URL = "project"
 weight = 3
 
-[[Languages.fr.menu.main]]
+[[Languages.pt.menu.footer]]
 name = "Blog"
 URL = "blog"
 weight = 4
 
-[[Languages.fr.menu.main]]
+[[Languages.pt.menu.footer]]
+name = "FAQ"
+URL = "faq"
 weight = 5
-name = "Pages"
-hasChildren = true
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
+[[Languages.pt.menu.footer]]
+name = "Contato"
+URL = "contact"
+weight = 6
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Tarification"
-  URL = "pricing"
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+# copyright
+copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) All Rights Reserved."
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Un service"
-  URL = "service"
-  
-[[Languages.fr.menu.main]]
+
+######################### english navigation #############################
+[[Languages.en.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Project"
+URL = "project"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+
+[[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 6
 
 
 # footer menu
-[[Languages.fr.menu.footer]]
-name = "About"
-URL = "about"
+[[Languages.en.menu.footer]]
+name = "Home"
+URL = "/"
 weight = 1
 
-[[Languages.fr.menu.footer]]
-name = "Project"
-URL = "project"
+[[Languages.en.menu.footer]]
+name = "About"
+URL = "about"
 weight = 2
 
-[[Languages.fr.menu.footer]]
-name = "Service"
-URL = "service"
+[[Languages.en.menu.footer]]
+name = "Project"
+URL = "project"
 weight = 3
 
-[[Languages.fr.menu.footer]]
-name = "Pricing"
-URL = "pricing"
+[[Languages.en.menu.footer]]
+name = "Blog"
+URL = "blog"
 weight = 4
 
-[[Languages.fr.menu.footer]]
+[[Languages.en.menu.footer]]
 name = "FAQ"
 URL = "faq"
 weight = 5
 
-[[Languages.fr.menu.footer]]
+[[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
 weight = 6

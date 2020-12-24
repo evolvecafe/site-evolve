@@ -3,17 +3,17 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A space to share experiences."
-  content : "Come and live new experiences with us."
+  title : "Um Espaço para <br/>Compartilhar Experiências"
+  content : "Vivemos experiências e buscamos proporcionar momentos de compartilhamento."
   button:
     enable : true
-    label : "Join the project"
+    label : "Participe do Projeto"
     link : "project"
 
 ############################# About #################################
 about:
-  enable : false
-  title : "About us"
+  enable : true
+  title : "Sobre Nós"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
               blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
@@ -26,9 +26,9 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable :  
+  enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN EXPERIENCES"
+  title : "ACREDITAMOS EM EXPERIÊNCIAS"
   content : "
   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
@@ -40,7 +40,7 @@ portfolio:
   "
   button:
     enable : true
-    label : "View Works"
+    label : "Saiba mais"
     link : "project"
 
 
@@ -58,7 +58,7 @@ cta:
   content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Entre em contato"
     link : "contact"
 
 ############################# Funfacts ###############################

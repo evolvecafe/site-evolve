@@ -13,7 +13,7 @@
 - id: submit
   translation: Send Message
 - id: all
-  translation: All
+  translation: Todos
 - id: posted_by
   translation: Posted By
 - id: read_more
