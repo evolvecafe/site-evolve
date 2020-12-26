@@ -1,30 +1,30 @@
 - id: last_update
-  translation: Last updated
+  translation: Última atualização
 - id: phone
-  translation: Phone
+  translation: Telefone
 - id: email
   translation: Email
 - id: location
-  translation: Location
+  translation: Localização
 - id: buy_now
-  translation: Buy Now
+  translation: Compre Agora
 - id: address_title
-  translation: Stop By For A visit
+  translation: Venha nos Conhecer Pessoalmente
 - id: submit
-  translation: Send Message
+  translation: Enviar Mensagem
 - id: all
   translation: Todos
 - id: posted_by
-  translation: Posted By
+  translation: Postado por
 - id: read_more
-  translation: Continue Reading
+  translation: Continue lendo
 - id: latest_posts
-  translation: Latest Posts
+  translation: Últimos posts
 - id: page_prev
-  translation: Prev
+  translation: Anterior
 - id: page_next
-  translation: Next
+  translation: Próximo
 - id: tags
   translation: Tags
 - id: categories
-  translation: Categories
+  translation: Categorias

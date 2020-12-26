@@ -1,7 +1,6 @@
 ---
 title: "Fale Conosco"
-description: "Tem sugestões ou dúvidas?
-Sua opinião é muito importante para nós!"
+description: "Preencha o formulário abaixo ou acesse nossas redes sociais para entrar em contato conosco. "
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

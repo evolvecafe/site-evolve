@@ -3,7 +3,7 @@ about:
   enable : true
   image : "images/company/team.jpeg"
   title : "Nós acreditamos que a educação transforma."
-  content : "Temos um ambiente aberto para discusssão. Aprendemos muito com experiências
+  content : "Nós acreditamos que todas as pessoas possuem algo pra compartilhar, por isso Evolve é o espaço ideal para trocar experiências. 
           
           
           
@@ -18,8 +18,8 @@ about:
   funfacts:
     # funfacts loop
     - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Pessoas impactadas"
-      count : "135"
+      name : "Pessoas impactadas em 2020"
+      count : "209"
       
     # funfacts loop
     - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/

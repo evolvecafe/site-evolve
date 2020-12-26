@@ -88,16 +88,15 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 logo = "images/logo.png"
 logo_width = "60px"
 # Meta data
-description = "This is meta description"
+description = "Somos uma comunidade unida pelo propósito da troca de experiências, desenvolvimento pessoal e profissional de forma contínua."
 author = "Evolve Café"
 # Contact Information
-mobile = "#"
 email = "contatoevolvecafe@gmail.com"
-location = "Campinas"
+location = "Campinas/SP"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/mrgooaeo" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "G-Q7M58850P3" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 
@@ -116,14 +115,14 @@ link = "contact"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "-22.88879717372107"
+map_longitude = "-47.07665089025387"
 map_marker = "images/marker.png"
 
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 90
   
 ############################# social site ########################
 [[params.social]]
