@@ -1,12 +1,11 @@
 ---
-title: "Dúvidas frequentes"
-description: ""
-subtitle : ""
-date: 2019-12-23T13:05:29+06:00
-draft: false
-bg_image: "images/featue-bg.jpg"
----
+title: Dúvidas frequentes
+description: ''
+subtitle: ''
+date: '2019-12-23T13:05:29.000+06:00'
+bg_image: "/images/slider-bg.jpg"
 
+---
 ### Bem vindo ao Evolve Café!
 
 Somos uma comunidade unida pelo propósito da troca de experiências, desenvolvimento pessoal e profissional de forma contínua. Realizamos eventos, os “cafés” onde discutimos sobre algum tema previamente divulgado.
@@ -41,4 +40,3 @@ Veja nossa missão, visão e valores [aqui](https://evolvecafe.me/about).
 #### 7.Como surgiu o Evolve?
 
 O Evolve surgiu em 2018 quando a Jamile começou a organizar cafés mensais. Recém chegada na cidade de Campinas, iniciou as divulgações na sua página pessoal no Linkedin. Com o passar do tempo o grupo foi tomando forma, amadurecendo e se consolidando como um espaço de aprendizado e propício para desenvolver habilidades comportamentais.
-  
