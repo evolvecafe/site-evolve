@@ -1,207 +1,281 @@
-DefaultContentLanguage = "pt"
+################################# Default configuration ###################
 baseURL = "https://evolvecafe.me"
-disableLanguages = ["en"]
-disqusShortname = ""
-paginate = "4"
-summaryLength = "30"
+title = "Evolve Café | Um espaço para compartilhar experiências."
 theme = "site-evolve"
 themesDir = "../.."
-title = "Evolve Café | Um espaço para compartilhar experiências."
-[Languages.en]
-contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) All Rights Reserved."
-languageCode = "en-us"
-languageName = "En"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "/"
-name = "Home"
-weight = 1
-[[Languages.en.menu.footer]]
-URL = "about"
-name = "About"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.en.menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[Languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.en.menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[Languages.en.menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[Languages.en.menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.en.menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[Languages.pt]
-contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) todos os direitos reservados."
-languageCode = "pt-br"
-languageName = "Pt"
-weight = 1
-[[Languages.pt.menu.footer]]
-URL = "/"
-name = "Home"
-weight = 1
-[[Languages.pt.menu.footer]]
-URL = "about"
-name = "Sobre"
-weight = 2
-[[Languages.pt.menu.footer]]
-URL = "project"
-name = "Projeto"
-weight = 3
-[[Languages.pt.menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[Languages.pt.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.pt.menu.footer]]
-URL = "contact"
-name = "Contato"
-weight = 6
-[[Languages.pt.menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[Languages.pt.menu.main]]
-URL = "about"
-name = "Sobre"
-weight = 2
-[[Languages.pt.menu.main]]
-URL = "project"
-name = "Projeto"
-weight = 3
-[[Languages.pt.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[Languages.pt.menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.pt.menu.main]]
-URL = "contact"
-name = "Contato"
-weight = 6
-[markup.goldmark.renderer]
-unsafe = true
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "30"
+# disqus short name
+disableLanguages = ["fr", "en"]
+disqusShortname = "" # get your shortname form here : https://disqus.com
+DefaultContentLanguage = "pt"
+
+################################# Outputs #################################
+# hugo outputs
 [outputs]
 home = ["HTML"]
+
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+#################################### Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+page = "/"
+attributes = "media='screen'"
+
+[[params.plugins.css]]
+link = "plugins/Ionicons/css/ionicons.min.css"
+page = "/"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.min.css"
+page = "/"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+page = "/"
+attributes = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+page = "/"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+page = "/"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+page = "/"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/magnific-popup/magnific-popup.min.js"
+page = "/"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+page = "/"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+page = "contact/"
+attributes = ""
+
+
+############################### widgets #################################
+
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+
+
+#################### default parameters ################################
 [params]
-author = "Evolve Café"
-contact_form_action = "https://formspree.io/f/mrgooaeo"
-description = "Somos uma comunidade unida pelo propósito da troca de experiências, desenvolvimento pessoal e profissional de forma contínua."
-email = "contatoevolvecafe@gmail.com"
-google_analitycs_id = "G-Q7M58850P3"
-location = "Campinas/SP"
 logo = "images/logo.png"
 logo_width = "60px"
+# Meta data
+description = "Somos uma comunidade unida pelo propósito da troca de experiências, desenvolvimento pessoal e profissional de forma contínua."
+author = "Evolve Café"
+# Contact Information
+email = "contatoevolvecafe@gmail.com"
+location = "Campinas/SP"
+# contact form action
+contact_form_action = "https://formspree.io/f/mrgooaeo" # contact form works with : https://formspree.io
+# Google Analitycs
+google_analitycs_id = "G-Q7M58850P3" # Your ID# search
+# multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
-[params.cookies]
+
+# Preloader
+[params.preloader]
 enable = true
-expire_days = 90
+preloader = "" # use .png , .svg or .gif format
+
+# Navigation get start button
+[params.nav_button]
+enable = true
+label = "Get A Quote"
+link = "contact"
+
+# google map
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "-22.88879717372107"
 map_longitude = "-47.07665089025387"
 map_marker = "images/marker.png"
-[params.nav_button]
+
+# cookies
+[params.cookies]
 enable = true
-label = "Get A Quote"
-link = "contact"
-[[params.plugins.css]]
-attributes = "media='screen'"
-link = "plugins/bootstrap/bootstrap.min.css"
-page = "/"
-[[params.plugins.css]]
-attributes = ""
-link = "plugins/Ionicons/css/ionicons.min.css"
-page = "/"
-[[params.plugins.css]]
-attributes = ""
-link = "plugins/magnific-popup/magnific-popup.min.css"
-page = "/"
-[[params.plugins.css]]
-attributes = ""
-link = "plugins/slick/slick.css"
-page = "/"
-[[params.plugins.js]]
-attributes = ""
-link = "plugins/jQuery/jquery.min.js"
-page = "/"
-[[params.plugins.js]]
-attributes = ""
-link = "plugins/bootstrap/bootstrap.min.js"
-page = "/"
-[[params.plugins.js]]
-attributes = ""
-link = "plugins/slick/slick.min.js"
-page = "/"
-[[params.plugins.js]]
-attributes = ""
-link = "plugins/magnific-popup/magnific-popup.min.js"
-page = "/"
-[[params.plugins.js]]
-attributes = ""
-link = "plugins/shuffle/shuffle.min.js"
-page = "/"
-[[params.plugins.js]]
-attributes = ""
-link = "plugins/google-map/gmap.js"
-page = "contact/"
-[params.preloader]
-enable = true
-preloader = ""
-[params.widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+expire_days = 90
+  
+############################# social site ########################
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
+
 [[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.linkedin.com/company/evolvecafe/"
+
+################################ Portuguese Language ########################
+[Languages.pt]
+languageName = "Pt"
+languageCode = "pt-br"
+contentDir = "content/english"
+weight = 1
+# copyright
+copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) todos os direitos reservados."
+
+
+######################### Portuguese navigation #############################
+# main menu
+[[Languages.pt.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.pt.menu.main]]
+name = "Sobre"
+URL = "about"
+weight = 2
+
+[[Languages.pt.menu.main]]
+name = "Projeto"
+URL = "project"
+weight = 3
+
+[[Languages.pt.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.pt.menu.main]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+
+[[Languages.pt.menu.main]]
+name = "Contato"
+URL = "contact"
+weight = 6
+
+
+# footer menu
+[[Languages.pt.menu.footer]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.pt.menu.footer]]
+name = "Sobre"
+URL = "about"
+weight = 2
+
+[[Languages.pt.menu.footer]]
+name = "Projeto"
+URL = "project"
+weight = 3
+
+[[Languages.pt.menu.footer]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.pt.menu.footer]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+[[Languages.pt.menu.footer]]
+name = "Contato"
+URL = "contact"
+weight = 6
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+# copyright
+copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) All Rights Reserved."
+
+
+######################### english navigation #############################
+[[Languages.en.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Project"
+URL = "project"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+
+[[Languages.en.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+
+# footer menu
+[[Languages.en.menu.footer]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Project"
+URL = "project"
+weight = 3
+
+[[Languages.en.menu.footer]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.en.menu.footer]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+[[Languages.en.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 6
