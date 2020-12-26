@@ -2,25 +2,24 @@
 about:
   enable : true
   image : "images/company/team.jpeg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
+  title : "Nós acreditamos que a educação transforma."
+  content : "Nós acreditamos que todas as pessoas possuem algo pra compartilhar, por isso Evolve é o espaço ideal para trocar experiências. 
           
           
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+          
+          
+          "
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
   funfacts:
     # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Completed Projects"
-      count : "349"
+    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Pessoas impactadas em 2020"
+      count : "209"
       
     # funfacts loop
     - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
