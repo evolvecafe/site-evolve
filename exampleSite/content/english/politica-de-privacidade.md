@@ -1,8 +1,8 @@
 +++
 bg_image = ""
-description = ""
+description = "Política de Privacidade do Evolve"
 draft = true
-title = ""
+title = "Política de Privacidade"
 
 +++
 Nós, do Evolve (Evolve Cafe), estamos comprometidos em resguardar sua privacidade. O intuito deste documento é esclarecer quais informações são coletadas dos usuários de nosso site [https://www.evolvecafe.me](https://www.evolvecafe.me "https://www.evolvecafe.me") – e respectivos serviços – e de que forma esses dados são manipulados e utilizados.
