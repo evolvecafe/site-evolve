@@ -1,5 +1,5 @@
 +++
-bg_image = ""
+bg_image = "/images/slider-bg.jpg"
 description = "Termos e Condições de Uso para utilização de materiais e participação dos eventos do Evolve"
 draft = true
 title = "Termos e Condições de Uso"
