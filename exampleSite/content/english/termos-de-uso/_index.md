@@ -1,13 +1,19 @@
-+++
-bg_image = "/images/slider-bg.jpg"
-description = "Termos e Condições de Uso para utilização de materiais e participação dos eventos do Evolve"
-draft = true
-title = "Termos e Condições de Uso"
+---
+title: Termos e Condições de Uso
+description: Termos e Condições de Uso para utilização de materiais e participação dos eventos do Evolve
+date: '2020-12-27T19:41:51.000-03:00'
+bg_image: "/images/slider-bg.jpg"
 
-+++
+---
 Ao integrar aos nossos cursos e listas de email necessariamente você estará aceitando condicionalmente todos os Termos e Condições de Uso aqui apresentados.
 
 A participação dos eventos e listas representa sua concordância com todos os termos, condições e notificações, que podem ser alterados ao longo do tempo, em respeito às normas e legislações aplicáveis.
+
+#### <br>**Autorização de Uso de Imagem**
+
+Ao Participar dos Eventos promovidos pelo Evolve, eu usuário autorizo o uso de minha imagem em todo e qualquer material entre fotos e vídeo, para ser utilizada em produção de vídeo ou qualquer outro material publicitário, permtindo a divulgação para o público geral no site do Evolve, de seus parceiros ou em mídias sociais.
+
+A presente autorização é concedida a título gratuito, abrandendo o uso da imagem em todo território nacional e no exterior, nas seguintes formas: mídia eletrônica (videoteipe, televisão, cinema, programa para rádio, entre outros), sem que nada haja a ser reclamado a título de direitos ou a qualquer outro.
 
 #### **Propriedade Intelectual**
 
@@ -23,7 +29,7 @@ Todos os Materiais que você tiver acesso por meio de nossas plataformas são de
 
 #### **Uso Ilegal Ou Proibido**
 
-Como condição para o uso deste site você garante e reconhece que o site www.dcstudio.com.br e todo o seu conteúdo não serão utilizados para nenhum propósito que seja ilegal ou proibido por esses Termos e Condições, notificações ou por qualquer legislação aplicável.
+Como condição para o uso deste site você garante e reconhece que o site www.evolvecafe.me e todo o seu conteúdo não serão utilizados para nenhum propósito que seja ilegal ou proibido por esses Termos e Condições, notificações ou por qualquer legislação aplicável.
 
 #### **Links Para sites de Terceiros**
 

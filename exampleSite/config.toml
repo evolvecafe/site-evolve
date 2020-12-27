@@ -206,6 +206,16 @@ name = "Contato"
 URL = "contact"
 weight = 6
 
+[[Languages.pt.menu.footer]]
+name = "Política de Privacidade"
+URL = "politica-de-privacidade"
+weight = 6
+
+[[Languages.pt.menu.footer]]
+name = "Termos de Uso"
+URL = "termos-de-uso"
+weight = 6
+
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
