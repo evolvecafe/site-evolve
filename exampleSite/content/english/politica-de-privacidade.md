@@ -1,7 +1,6 @@
 +++
 bg_image = ""
 description = "Política de Privacidade do Evolve"
-draft = true
 title = "Política de Privacidade"
 
 +++
