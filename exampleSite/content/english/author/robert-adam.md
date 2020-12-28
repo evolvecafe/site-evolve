@@ -9,5 +9,11 @@ social:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Sou apaixonado pela tecnologia e acredito que ela bem aplicada pode tornar a vida das pessoas muito melhor.
+
+Graduado em Análise e Desenvolvimento de Sistemas.
+
+Conhecimento em Java | Spring Framework | Spring Data | Spring Security | COBOL | JCL | Git | Github | Python | Jira | Metodologia Scrum.
+
+Site: https://robert-adam-dev.github.io/home/
+GitHub: https://github.com/robert-adam-dev
