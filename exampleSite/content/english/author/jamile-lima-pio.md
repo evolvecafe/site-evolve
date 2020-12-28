@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "contato@jamilelimapio.com"
 image = "/images/clients/img_jamile.jpeg"
 title = "Jamile Lima Pio"
