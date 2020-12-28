@@ -4,7 +4,6 @@ bg_image = "/images/featue-bg.jpg"
 categories = ["Desenvolvimento Pessoal", "Autoconhecimento"]
 date = 2020-12-28T01:00:00Z
 description = "Uma filosofia para o compartilhamento."
-draft = true
 image = "/images/blog/blog-post-1.jpg"
 tags = ["Sócrates", "Peneiras da Sabedoria", "Sabedoria", "Compartilhamento de Informações"]
 title = "As 3 peneiras da Sabedoria"
