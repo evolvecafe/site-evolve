@@ -4,7 +4,7 @@ email = ""
 image = "/images/clients/img_jamile.jpeg"
 title = "Jamile Lima Pio"
 [[social]]
-icon = "ti-linkedin"
+icon = "ion-social-linkedin-outline"
 link = "https://www.linkedin.com/in/jamilelimapio/"
 
 +++
