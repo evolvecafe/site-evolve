@@ -18,7 +18,9 @@ Ao compactarmos nossos momentos de treinamento com metodologias adequadas podemo
 
 Agora que você já sabe as consequências do estudo demasiado é hora de conciliar a necessidade com condições saudáveis, e isso pode ser feito através de técnicas e das recomendações a seguir:
 
-**Faça um cronograma de estudos** – Dependendo da quantidade de matérias a serem compreendidas é possível fazer uma combinação proveitosa. Exemplo: Sou melhor em humanas do que em exatas, logo posso combinar História e Matemática para o mesmo dia ao invés de Matemática e Física. Dessa forma não ficarei tão cansada e poderei aproveitar o máximo do meu tempo em contato com um conteúdo. [3mVGxPw](https://bit.ly/3mVGxPw "Imagem Computador")
+**Faça um cronograma de estudos** – Dependendo da quantidade de matérias a serem compreendidas é possível fazer uma combinação proveitosa. Exemplo: Sou melhor em humanas do que em exatas, logo posso combinar História e Matemática para o mesmo dia ao invés de Matemática e Física. Dessa forma não ficarei tão cansada e poderei aproveitar o máximo do meu tempo em contato com um conteúdo. 
+
+![](/images/1544464220662.jpeg)
 
 **Organize seu local de estudos!**
 
@@ -28,19 +30,27 @@ Você consegue lembrar exatamente o que fez ao chegar em casa ontem? Provavelmen
 
 Caso não possa manter uma mesa arrumada, pode deixar o material junto e organizado num local para facilitar.
 
-Outro ponto é que você não terá como fugir da responsabilidade e nem se distrairá arrumando o material. É só sentar e estudar! [2KLaRiC](https://bit.ly/2KLaRiC "2KLaRiC")
+Outro ponto é que você não terá como fugir da responsabilidade e nem se distrairá arrumando o material. É só sentar e estudar!
+
+![](/images/1544464220671.png)
 
 **Determine o seu objetivo-** Vai fazer uma prova, um teste, ou manter-se atualizado? Considero esse tópico de extrema importância, pois através dele podemos definir o material de estudo.
 
 **Ferramentas/Material-** Definido o objetivo fica mais fácil determinar os meios para alcançá-los. Vai fazer uma prova oral? Que tal arrumar um gravador para que possa se avaliar melhor? Para manter-se atualizado utilize um cronograma de revisões, eu faço isso através de um aplicativo gratuito chamado Partiu Revisar. Se a sua necessidade for adquirir conhecimentos então recomendo 2, das inúmeras ferramentas disponíveis:
 
+![](/images/1544464220306.jpeg)
+
 **A) Mapas mentais -** A associação de cores, imagens e frases curtas é um grande atrativo para que o seu cérebro memorize. Quem já estudou um pouco de marketing sabe que cada cor proporciona uma sensação ao nosso cérebro. O azul leva à confiança, o amarelo lembra felicidade, o verde representa esperança e o vermelho ação. Agora que você dispõe dessas informações pode e DEVE utilizar em seu favor.
+
+![](/images/1544464222292.jpeg)
 
 **B) Resumos -** Esse instrumento só é útil caso você consiga sintetizar o conteúdo analisado. Não adianta fazer um resumo com 10 páginas de um material com 18, por exemplo. Todavia, se você conseguir sintetizar pode montar um material de consulta rico em informações.
 
 Saliento que independente da técnica escolhida é preciso fazer um estudo ATIVO, e não passivo como somos acostumados.
 
 Isso significa que precisamos pesquisar os termos desconhecidos, ter curiosidade de entender a lógica por trás daquele raciocínio, além de ter uma explicação própria para cada tópico estudado. O canal de estudos possui uma forte ligação com esse tópico, visto que vídeo aulas são típicas de um estudo passivo, mas podem ser associadas com anotações nos pdf’s/caderno, por exemplo, afim de equilibrar.
+
+![](/images/chave.png)
 
 Finalizando com chave de ouro, como dizia um antigo professor de matemática, temos a **FREQUÊNCIA** do estudo. Aqui mora um grande segredo: a sua **regularidade** acessando um conteúdo é mais importante que a quantidade de horas que passa por dia dedicado àquele assunto.
 
