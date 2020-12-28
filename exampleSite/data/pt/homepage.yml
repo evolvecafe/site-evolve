@@ -120,8 +120,9 @@ funfacts:
     - name : "Robert Adam"
       image : "images/clients/img_robert.jpeg"
       designation : ""
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      content : "Sou um entusiasta da tecnologia, sempre tento ver um sentido nas novas invenções e vivenciar essas experiências.
+                 Gosto de estudar e mantenho o foco em alta quando necessário. Estou sempre conectado de alguma forma. Formado em Análise e Desenvolvimento de Sistemas, 
+                 iniciei a carreira de desenvolvedor há pouco mais de 2 anos e estou em constante atualização e aprendizado."
     
     # testimonial item loop
     - name : "Viviane Sanchez"
