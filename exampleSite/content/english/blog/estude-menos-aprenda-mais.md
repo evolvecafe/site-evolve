@@ -4,7 +4,6 @@ bg_image = "/images/featue-bg.jpg"
 categories = ["Otimização do Tempo", "Metodologias de Estudo", "Desenvolvimento Pessoal"]
 date = 2020-12-28T21:17:00Z
 description = "Um guia para a otimização do estudo"
-draft = true
 image = "/images/1529361407045.png"
 tags = ["Metodologias de Estudo", "Recomendações de Estudo", "Como Estudar"]
 title = "Estude menos, aprenda mais"
