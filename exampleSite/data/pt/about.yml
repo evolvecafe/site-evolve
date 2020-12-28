@@ -3,7 +3,7 @@ about:
   enable : true
   image : "images/company/team.jpeg"
   title : "Nós acreditamos que a educação transforma."
-  content : "Nós acreditamos que todas as pessoas possuem algo pra compartilhar, por isso Evolve é o espaço ideal para trocar experiências. 
+  content : "Todas as pessoas possuem algo pra compartilhar, por isso Evolve é o espaço ideal para trocar experiências. 
           
           
           
@@ -22,64 +22,64 @@ about:
       count : "209"
       
     # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
-      count : "35000"
-      
-    # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "70"
-      
-    # funfacts loop
-    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "10"
-      
-    # funfacts loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "75"
+      name : "Eventos Realizados em 2020"
+      count : "24"
       
     # funfacts loop
-    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Temas abordados em 2020"
       count : "20"
+      
+    # funfacts loop
+    - icon : "ion-ios-bolt-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Facilitadores"
+      count : "6"
+      
+    # funfacts loop
+    - icon : "ion-ios-videocam-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Eventos Online em 2020"
+      count : "18"
+      
+    # funfacts loop
+    - icon : "ion-happy-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Vontade de Parar"
+      count : "0"
       
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Acreditamos que todos são capazes. Somos Evolve."
   feature_item:
     # feature item loop
-    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "IOS App Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Networking"
+      content : "Gostamos de conhecer novas pessoas e você pode ser a próxima."
+      
+    # feature item loop
+    - icon : "ion-ios-paper-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Aprendizado"
+      content : "Valorizamos cada experiência e gostamos de abordar diversos temas de diversas áreas profissionais."
       
     # feature item loop
     - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "App Secutity"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Acreditamos em Profissionais Multidisciplinares"
+      content : "Profissionais destravados e que pensam além das suas atribuições."
       
     # feature item loop
-    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Games Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
-    # feature item loop
-    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Animation and Editing"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Desenvolvimento Profissional"
+      content : "Os Facilitadores possuem um plano de desenvolvimento para habilidades comportamentais e ferramentais."
       
     # feature item loop
     - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "UI/UX Design"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Valorizamos Novas Ideias"
+      content : "Todas as ideias para crescimento, desenvolvimento e aprendizado de novas habilidades são valorizadas."
       
     # feature item loop
     - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Você no Centro"
+      content : "Temos um ambiente propício para seu desenvolvimento profissional e pessoal através do compartilhamento de experiências."
     
 
 #################################### testimonial & mission vision #######################################

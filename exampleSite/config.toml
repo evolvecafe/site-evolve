@@ -138,7 +138,7 @@ languageCode = "pt-br"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) todos os direitos reservados."
+copyright = "Copyright &copy; 2021 [Evolve Café](https://evolvecafe.me/) todos os direitos reservados."
 
 
 ######################### Portuguese navigation #############################
@@ -223,7 +223,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 # copyright
-copyright = "Copyright &copy; 2020 [Evolve Café](https://evolvecafe.me/) All Rights Reserved."
+copyright = "Copyright &copy; 2021 [Evolve Café](https://evolvecafe.me/) All Rights Reserved."
 
 
 ######################### english navigation #############################
