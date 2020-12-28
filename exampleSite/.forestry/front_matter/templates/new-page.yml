@@ -14,6 +14,3 @@ fields:
     maxSize: 250
   label: bg image
   description: page header background image
-pages:
-- exampleSite/content/english/politica-de-privacidade.md
-- exampleSite/content/english/termos-de-uso/termos-e-condicoes-de-uso.md

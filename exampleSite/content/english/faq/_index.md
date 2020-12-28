@@ -12,10 +12,9 @@ Somos uma comunidade unida pelo propósito da troca de experiências, desenvolvi
 
 Um dos facilitadores atua trazendo algumas informações e levantando alguns questionamentos para que possamos dar início ao momento de troca. Todas as pessoas interessadas em aprender e em trocar conhecimentos são bem vindas, independente da área de atuação. Nossos eventos são descontraídos e respeitosos, por isso não toleramos nenhum tipo de agressão e ofensa.<br>
 
-
 #### <br>1.Como faço pra conhecer o projeto?
 
-Você pode navegar pelo nosso site, seguir nossa "Linkedin page" e também inscrever-se em nossa "newsletter" para conhecer nossas ações e eventos. Caso deseje participar de um evento, acesse nossa página no [Sympla](https://www.sympla.com.br/evolvecafe).
+Você pode navegar pelo nosso site, seguir nossa [LinkedIn Page ](https://www.linkedin.com/company/evolvecafe)e também inscrever-se em nossa [Newsletter](https://evolvecafe.me/blog/) para conhecer nossas ações e eventos. Caso deseje participar de um evento, acesse nossa página no [Sympla](https://www.sympla.com.br/evolvecafe).
 
 #### 2.Os eventos são pagos?
 
