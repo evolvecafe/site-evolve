@@ -32,3 +32,6 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/english/blog/as-3-peneiras-da-sabedoria.md
+- exampleSite/content/english/blog/estude-menos-aprenda-mais.md
