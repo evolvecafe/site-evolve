@@ -1,6 +1,6 @@
 ---
 title: As 3 peneiras da Sabedoria
-date: 2020-12-27T23:00:00.000-02:00
+date: 2020-12-27T23:00:00-02:00
 author: Robert Adam
 image: images/blog/blog-post-6.jpg
 bg_image: images/featue-bg.jpg
