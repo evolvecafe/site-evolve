@@ -99,8 +99,8 @@ funfacts:
     - name : "Vitor Pio"
       image : "images/clients/img_vitor.png"
       designation : ""
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      content : "Comecei minha carreira como Jovem Aprendiz e nunca mais parei de aprender. 
+      Amante de Segurança da Informação, Privacidade e Cybersecurity. Sou facilitador de tecnologia aqui no Evolve e possuo um projeto chamado PrivacyMap no YouTube."
                 
     # testimonial item loop
     - name : "Jamile Lima Pio"
