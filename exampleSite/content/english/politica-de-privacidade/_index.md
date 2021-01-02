@@ -6,7 +6,6 @@ date: '2020-12-27T19:41:51.000-03:00'
 bg_image: "/images/slider-bg.jpg"
 
 ---
-
 Nós, do Evolve (Evolve Café), estamos comprometidos em resguardar sua privacidade. O intuito deste documento é esclarecer quais informações são coletadas dos usuários de nosso site [https://www.evolvecafe.me](https://www.evolvecafe.me "https://www.evolvecafe.me") – e respectivos serviços – e de que forma esses dados são manipulados e utilizados.
 
 Alertamos que se você não concorda com o conteúdo desta política, não é recomendável participar ou baixar nossos materiais nem utilizar quaisquer de nossos serviços.
@@ -21,14 +20,14 @@ Em caso de dúvidas, Você poderá entrar em contato conosco a qualquer momento 
 
 Para exercer seus direitos assegurados pela Lei Geral de Proteção de Dados, Você também poderá entrar em contato com o Encarregado de dados do Evolve:
 
- Nome: Vitor Pio  
- E-mail: contatoevolvecafe@gmail.com 
+Nome: Vitor Pio  
+E-mail: contatoevolvecafe@gmail.com
 
 #### <br>**Sobre a coleta de dados**
 
 Em nossos sites, as informações são coletadas das seguintes formas:
 
-Informações fornecidas por você – Coletamos informações de identificação pessoal – como nome, telefone, email, e outras – via preenchimento dos formulários para download de nossos conteúdos gratuitos ou cadastro para recebimento de informações. 
+Informações fornecidas por você – Coletamos informações de identificação pessoal – como nome, telefone, email, e outras – via preenchimento dos formulários para download de nossos conteúdos gratuitos ou cadastro para recebimento de informações.
 
 Eventualmente, a solicitação algumas informações podem ser feitas por meio de contato direto do Evolve com os usuários via email ou telefone.
 
@@ -62,7 +61,7 @@ Funcionários do Evolve poderão eventualmente entrar em contato via email ou te
 
 **e)** Cumprir obrigações legais.
 
-O Evolve armazenará seus Dados em ambiente seguro, bem como manterá Seus Dados somente pelo tempo que for necessário para os propósitos estabelecidos nesta Política de Privacidade, nos contratos celebrados com os Clientes, ou conforme autorizado e/ou exigido em legislação aplicável. Dessa forma, a InovaMind poderá reter e utilizar Seus Dados na medida necessária para cumprir suas obrigações legais, resolução de disputas judiciais, execução de contratos ou políticas legais.
+O Evolve armazenará seus Dados em ambiente seguro, bem como manterá Seus Dados somente pelo tempo que for necessário para os propósitos estabelecidos nesta Política de Privacidade, nos contratos celebrados com os Clientes, ou conforme autorizado e/ou exigido em legislação aplicável. Dessa forma, o Evolve poderá reter e utilizar Seus Dados na medida necessária para cumprir suas obrigações legais, resolução de disputas judiciais, execução de contratos ou políticas legais.
 
 #### <br>**Seus Direitos**
 
@@ -80,7 +79,7 @@ Sem prejuízo de outros direitos dispostos nesta Política, em cumprimento à Le
 
 **f)** eliminação dos dados pessoais tratados com o Seu consentimento, exceto nas hipóteses previstas no artigo 16 da Lei Geral de Proteção de Dados Pessoais;
 
-**g)** informação das entidades públicas e privadas com as quais a InovaMind realizou o uso compartilhado de dados;
+**g)** informação das entidades públicas e privadas com as quais o Evolve realizou o uso compartilhado de dados;
 
 **h)** informação sobre a possibilidade de não fornecer Seu consentimento e sobre as consequências da negativa;
 
