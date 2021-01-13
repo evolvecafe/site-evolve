@@ -113,8 +113,10 @@ funfacts:
     - name : "Franciele Alessandra Parro"
       image : "images/clients/img_franciele.jpeg"
       designation : ""
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      content : Sou Administradora especialista em gestão financeira, apaixonada por pessoas, fazer novas amizades, uma boa leitura, cinema, e um ótimo café...
+                Trocar experiências é umas da formas mais incríveis de aprendizado, e relacionamento!
+                Quando recebi o convite pra ser facilitadora do Evolve, de cara aceitei, espero contribuir o máximo e dar o meu melhor. 
+                Que tal tomar uma cafe com a gente?!"
     
     # testimonial item loop
     - name : "Robert Adam"
