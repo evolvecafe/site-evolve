@@ -78,7 +78,7 @@ funfacts:
     # funfacts loop
     - icon : "ion-ios-bolt-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Facilitadores"
-      count : "6"
+      count : "8"
 
     # funfacts loop
     - icon : "ion-happy-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -127,8 +127,20 @@ funfacts:
                  iniciei a carreira de desenvolvedor há pouco mais de 2 anos e estou em constante atualização e aprendizado."
     
     # testimonial item loop
+    - name : "David Souza"
+      image : "images/clients/img_david.jpg"
+      designation : ""
+      content : "Meu nome é David e estou em uma nova jornada no Segmento de TI, gosto de novidades e essa é uma área que está constante mudança, isso me atrai e me inspira.
+                O Evolve é uma oportunidade de conhecer pessoas diferentes e interessantes. Sei que vou aprender muito e poder passar um pouco de conhecimento, serei desafiado,
+                 onde minhas fraquezas se tornarão pontos fortes."
+
+    - name : "Larissa Santa Rosa"
+      image : "images/clients/img_larissa.jpg"
+      designation : ""
+      content : "Entrei de cabeça em um mundo novo: com o objetivo de ter muito aprendizado e ótimas experiências, me tornei facilitadora no Evolve. 
+                  Formada em pedagogia, dedicada a ter uma vida equilibrada, amo conhecer pessoas e adoro tudo aquilo que me tira o riso."
+
     - name : "Viviane Sanchez"
       image : "images/clients/img_viviane.jpeg"
       designation : ""
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+      content : "Em atualização..."
