@@ -1,12 +1,12 @@
 +++
 author = "Franciele Alessandra Parro"
 bg_image = "/images/featue-bg.jpg"
-categories = ["Desenvolvimento Pessoal", "Autoconhecimento"]
+categories = ["Organização Pessoal", "Planejamento", "Desenvolvimento Pessoal"]
 date = 2021-02-02T00:25:00Z
-description = "Uma filosofia para o compartilhamento."
+description = "Planejamento entre tantas incertezas."
 draft = true
 image = "/images/pexels-olya-kobruseva-5408685.jpg"
-tags = ["Sócrates", "Peneiras da Sabedoria", "Sabedoria", "Compartilhamento de Informações"]
+tags = ["Planejamento 2021", "Metas SMART"]
 title = "Como Planejar 2021?"
 type = "post"
 
