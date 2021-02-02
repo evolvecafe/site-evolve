@@ -4,7 +4,6 @@ bg_image = "/images/featue-bg.jpg"
 categories = ["Organização Pessoal", "Planejamento", "Desenvolvimento Pessoal"]
 date = 2021-02-02T00:25:00Z
 description = "Planejamento entre tantas incertezas."
-draft = true
 image = "/images/pexels-olya-kobruseva-5408685.jpg"
 tags = ["#MetasSmart", "#Networking", "Planejamento 2021", "Metas SMART"]
 title = "Como Planejar 2021?"
