@@ -1,13 +1,13 @@
 +++
-author = "Robert Adam"
+author = "Franciele Alessandra Parro"
 bg_image = "/images/featue-bg.jpg"
 categories = ["Desenvolvimento Pessoal", "Autoconhecimento"]
-date = 2020-12-28T01:00:00Z
+date = 2021-02-02T00:25:00Z
 description = "Uma filosofia para o compartilhamento."
 draft = true
-image = "/images/blog/blog-post-1.jpg"
+image = "/images/pexels-olya-kobruseva-5408685.jpg"
 tags = ["Sócrates", "Peneiras da Sabedoria", "Sabedoria", "Compartilhamento de Informações"]
-title = "Como Planejar 2021"
+title = "Como Planejar 2021?"
 type = "post"
 
 +++
