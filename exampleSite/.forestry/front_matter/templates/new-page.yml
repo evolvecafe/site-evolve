@@ -14,5 +14,3 @@ fields:
     maxSize: 250
   label: bg image
   description: page header background image
-pages:
-- exampleSite/content/english/blog/como-planejar-2021.md
