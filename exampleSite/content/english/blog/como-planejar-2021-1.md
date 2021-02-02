@@ -10,13 +10,13 @@ title = "Como Planejar 2021?"
 type = "post"
 
 +++
-2020 certamente foi um ano não planejado. A pandemia não fazia parte dos nossos planos, no entanto afetou a todos. Será que faz sentido planejar 2021? A resposta simples é que sim. Vale a pena continuar nos planejando para a vida.
+2020 certamente foi um **ano não planejado**. A pandemia não fazia parte dos nossos planos, no entanto afetou a todos. Será que faz sentido planejar 2021? A resposta simples é que sim. Vale a pena continuar nos planejando para a vida.
 
-Nem tudo sai como desejamos, mas é necessário se organizar e não deixar a vida ao acaso, por isso vale a pena refletir sobre os aprendizados que tivemos em 2020 e se inspirar para um 2021 melhor, considerando a possibilidade de sair da zona de conforto. 
+Nem tudo sai como desejamos, mas é necessário se organizar e não deixar a vida ao acaso, por isso vale a pena refletir sobre os aprendizados que tivemos em 2020 e se inspirar para um 2021 melhor, considerando a possibilidade de sair da zona de conforto.
 
 Por isso, vamos falar sobre uma ferramenta que permite o planejamento de uma forma objetiva e alcançável e vivências de anos anteriores a 2021, e através da Ferramenta Metas Smart é possível perceber de forma objetiva que é possível planejar, e alcançar resultados com eficiência e organização levando a ação.
 
-> "Então como planejar 2021 com sucesso e boas perspectivas?"
+> #### "Então como planejar 2021 com sucesso e boas perspectivas?"
 
 De acordo com Jamile Lima Pio, Mentora, Coach e estudante de Psicologia, precisamos perceber e nos estimular a ter a capacidade de se readaptar, mesmo diante de coisas externas à nossa vontade.
 
@@ -25,7 +25,7 @@ Por isso, vamos abordar as Metas SMART, que possui um significado resultante de 
 ![Figura1: Metas SMART](https://s3.amazonaws.com/blog.v-comply.com/wp-content/uploads/2018/05/31113024/blog-feature-smart.png "Figura1: Metas SMART")
 
 * S — Corresponde ao termo Specific, ou seja, uma meta deve ser específica naquilo que quer. Para ser específica, uma meta deve responder alguns questionamentos, como: O que estou buscando? Como posso atingir meu objetivo? Por que essa meta é importante pra mim?
-* M — Measurable, ou mensurável 
+* M — Measurable, ou mensurável
 
   Como criar uma meta se ela não pode ser medida? Não é coerente, por isso precisamos trazer métricas para nos ajudar no julgamento. Um exemplo de meta mensurável é aprender uma língua nova, como o inglês. Podemos refletir buscando responder às seguintes questões: Em quanto tempo estaremos fluentes? Quanto tempo preciso dedicar por dia/semana para alcançar?
 * A — Attainable ou atingível
