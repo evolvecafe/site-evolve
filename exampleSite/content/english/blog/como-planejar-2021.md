@@ -1,6 +1,7 @@
 +++
 bg_image = "/images/pexels-olya-kobruseva-5408685.jpg"
 description = "Perpectiva entre incertezas. "
+draft = true
 title = "Como Planejar 2021?"
 
 +++
