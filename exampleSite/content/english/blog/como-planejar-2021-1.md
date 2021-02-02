@@ -30,37 +30,13 @@ Por isso, vamos abordar as Metas SMART, que possui um significado resultante de 
   Como criar uma meta se ela não pode ser medida? Não é coerente, por isso precisamos trazer métricas para nos ajudar no julgamento. Um exemplo de meta mensurável é aprender uma língua nova, como o inglês. Podemos refletir buscando responder às seguintes questões: Em quanto tempo estaremos fluentes? Quanto tempo preciso dedicar por dia/semana para alcançar?
 * A — Attainable ou atingível
 
-Esse ponto é muito importante porque muitas resoluções de Ano Novo são
-
-baseadas em processos e situações que sabemos, lá no fundo, que não vão funcionar.
-
-Isto é, precisamos criar metas que são possíveis de atingir para que elas de fato sejam
-
-alcançadas, o que evita uma frustração.
-
-Usando o mesmo exemplo de aprendizagem do inglês, algumas perguntas que
-
-podem ser feitas são: cabe na minha rotina? Vou mesmo me dedicar ao estudo, ou só
-
-pretendo me matricular nas aulas?
-
+  Esse ponto é muito importante porque muitas resoluções de Ano Novo são baseadas em processos e situações que sabemos, lá no fundo, que não vão funcionar. Isto é, precisamos criar metas que são possíveis de atingir para que elas de fato sejam alcançadas, o que evita uma frustração. Usando o mesmo exemplo de aprendizagem do inglês, algumas perguntas que podem ser feitas são: cabe na minha rotina? Vou mesmo me dedicar ao estudo, ou só pretendo me matricular nas aulas?
 * R — Relevant, ou relevante
 
-Essa meta vai causar algum impacto real na sua vida? Tem grande valor e deve
-
-ser feita neste momento? No que ela pode te ajudar?
-
+  Essa meta vai causar algum impacto real na sua vida? Tem grande valor e deve ser feita neste momento? No que ela pode te ajudar?
 * T — Time based, ou temporal
 
-O tempo é um recurso escasso, e quando falamos de metas precisamos usar
-
-deste recurso. Isso porque precisamos de prazo e datas para que possamos atingir essa
-
-meta. Isso ativa nosso senso de urgência e responsabilidade. Um exemplo claro é:
-
-Preciso estudar inglês cinco vezes por semana, por uma hora por dia. Isso garante que
-
-seu objetivo final, neste caso a fluência, seja alcançado num período razoável.
+  O tempo é um recurso escasso, e quando falamos de metas precisamos usar deste recurso. Isso porque precisamos de prazo e datas para que possamos atingir essa meta. Isso ativa nosso senso de urgência e responsabilidade. Um exemplo claro é: Preciso estudar inglês cinco vezes por semana, por uma hora por dia. Isso garante que seu objetivo final, neste caso a fluência, seja alcançado num período razoável.
 
 #### **Conclusão**
 
