@@ -5,7 +5,7 @@ categories = ["Organização Pessoal", "Planejamento", "Desenvolvimento Pessoal"
 date = 2021-02-02T00:25:00Z
 description = "Planejamento entre tantas incertezas."
 image = "/images/pexels-olya-kobruseva-5408685.jpg"
-tags = ["#MetasSmart", "#Networking", "Planejamento 2021", "Metas SMART"]
+tags = ["Networking", "Planejamento 2021", "Metas SMART"]
 title = "Como Planejar 2021?"
 type = "post"
 
