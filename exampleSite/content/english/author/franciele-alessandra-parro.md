@@ -1,5 +1,4 @@
 +++
-draft = true
 email = ""
 image = "/images/clients/img_franciele.jpeg"
 title = "Franciele Alessandra Parro"
