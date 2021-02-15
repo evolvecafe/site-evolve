@@ -6,7 +6,7 @@ date = 2021-02-15T17:15:00Z
 description = "Um guia para a otimização do estudo"
 draft = true
 image = "/images/pexels-tran-547766.jpg"
-tags = ["Gestão do Tempo"]
+tags = ["Planejamento 2021", "Networking", "Planejamento", "Administração", "Tempo", "Gestão do Tempo"]
 title = "Gestão do Tempo: estratégias para a produtividade"
 type = "post"
 
