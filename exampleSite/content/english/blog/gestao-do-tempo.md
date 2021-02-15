@@ -22,7 +22,7 @@ E para começar, que tal pela percepção do tempo com a resposta para essas dua
 
 > #### **Quando a saga “Star Wars” estreou no cinema?**
 
-Parece que um evento aconteceu muito antes do outro, certo?
+##### Parece que um evento aconteceu muito antes do outro, certo?
 
 Na verdade, Star Wars estreou em 1977 e a última morte por guilhotina na França aconteceu dia 10 de setembro de…1977.
 
@@ -36,7 +36,7 @@ Com base nesse pensamento e trazendo isso para nossas atividades diárias, o que
 
 O fato é que o mundo não conspira contra nossos planos, porém não toma nenhuma ação a favor. Vivemos em um mundo VUCA (cheio de Volatilidade, incerteza, complexidade e ambiguidade) e não existe o momento ideal para começar.
 
-> Apenas comece!
+> #### Apenas comece!
 
 Tenho certeza que muitas vezes você já se pegou evitando fazer algum tipo de atividade ou pela dificuldade na execução ou pelo tempo que levaria para concluir, mas lembre-se quanto antes começar, mais cedo irá concluir #missão cumprida #fica a dica!
 
