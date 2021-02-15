@@ -1,64 +1,74 @@
 +++
-author = "Jamile Lima Pio"
+author = "Franciele Alessandra Parro"
 bg_image = "/images/featue-bg.jpg"
-categories = ["Otimização do Tempo", "Metodologias de Estudo", "Desenvolvimento Pessoal"]
+categories = ["Otimização do Tempo", "Desenvolvimento Pessoal"]
 date = 2020-12-28T21:17:00Z
 description = "Um guia para a otimização do estudo"
 draft = true
-image = "/images/1529361407045.png"
-tags = ["Metodologias de Estudo", "Recomendações de Estudo", "Como Estudar"]
-title = "Gestão do Tempo"
+image = "/images/pexels-tran-547766.jpg"
+tags = []
+title = "Gestão do Tempo: estratégias para a produtividade"
 type = "post"
 
 +++
-Você passa horas estudando e percebe que não teve o rendimento desejado? Provavelmente não está fazendo da forma mais otimizada, existem técnicas e recomendações que podem aumentar significativamente os seus resultados.
+#### Quem nunca terminou o dia com uma pilha de coisas para fazer? Ou desejou que o dia tivesse mais de 24h?
 
-O primeiro ponto é a quantidade de horas dedicadas à aprendizagem. Estudar excessivamente pode causar transtornos psicológicos, desequilíbrio com a vida pessoal, baixa assimilação de conteúdo além de possibilitar a ocorrência de bloqueios, comuns em momentos de grande assimilação de conteúdo.
+Cada vez mais notamos como é comum pessoas fazerem esse questionamento, isso porque tudo ocorre de modo tão rápido, mudanças constantes e um aumento significativo em nossas demandas, em sua grande maioria “para ontem” e em caráter de urgência. Será possível conciliar as atividades do trabalho e ainda sobrar tempo para você?
 
-Ao compactarmos nossos momentos de treinamento com metodologias adequadas podemos aumentar o nosso nível de aprendizagem, otimizando assim a nossa sessão de estudos.
+Dentro desse contexto vamos fazer uma reflexão com dicas para gerenciar nosso tempo.
 
-Agora que você já sabe as consequências do estudo demasiado é hora de conciliar a necessidade com condições saudáveis, e isso pode ser feito através de técnicas e das recomendações a seguir:
+E para começar, que tal pela percepção do tempo com a resposta para essas duas perguntinhas?!
 
-**Faça um cronograma de estudos** – Dependendo da quantidade de matérias a serem compreendidas é possível fazer uma combinação proveitosa. Exemplo: Sou melhor em humanas do que em exatas, logo posso combinar História e Matemática para o mesmo dia ao invés de Matemática e Física. Dessa forma não ficarei tão cansada e poderei aproveitar o máximo do meu tempo em contato com um conteúdo. 
+#### **- Quando aconteceu a última morte por guilhotina na França?**
 
-![](/images/1544464220662.jpeg)
+#### **- Quando a saga “Star Wars” estreou no cinema?**
 
-**Organize seu local de estudos!**
+Parece que um evento aconteceu muito antes do outro, certo?
 
-Você consegue lembrar exatamente o que fez ao chegar em casa ontem? Provavelmente deve ter procurado as chaves, aberto o portão e ao entrar trancou novamente. Esses passos ocorrem tão freqüentemente que não é comum ficarmos repassando os detalhes, a menos que algo de especial tenha ocorrido. A nossa memória se acostuma com certos procedimentos frequentes e acabamos fazendo tudo automaticamente.
+Na verdade, Star Wars estreou em 1977 e a última morte por guilhotina na França aconteceu dia 10 de setembro de…1977.
 
-É aqui que quero chegar: ao separar uma mesa com o seu material de estudos você acabará lembrando-se de estudar toda vez que se aproximar do local, e isso certamente será um incentivo e afastará a procrastinação.
+Para saber mais: [https://history.uol.com.br/hoje-na-historia/guilhotina-cai-pela-ultima-vez-na-franca](https://history.uol.com.br/hoje-na-historia/guilhotina-cai-pela-ultima-vez-na-franca "https://history.uol.com.br/hoje-na-historia/guilhotina-cai-pela-ultima-vez-na-franca")
 
-Caso não possa manter uma mesa arrumada, pode deixar o material junto e organizado num local para facilitar.
+  
+**Dinâmica: A noção que se tem do tempo nunca está correta. Dentro desse tema, observa-se que para uma questão: “Star Wars” o filme foi estreado há muito tempo atrás, porém para a mesma data em “relação a última morte por guilhotina”, trata-se de um fato considerado recente.**
 
-Outro ponto é que você não terá como fugir da responsabilidade e nem se distrairá arrumando o material. É só sentar e estudar!
+Pode-se notar que o tempo não pode ser percebido diretamente. Diante de dois fatores de impacto histórico social, a mesma data é vista de formas diferentes sendo uma recente e outra "há muito tempo".
 
-![](/images/1544464220671.png)
+Com base nesse pensamento e trazendo isso para nossas atividades diárias, o que nos impede de começar, e colocar a mão na massa para ponta pé inicial em nossas tarefas, nossos planos? Há quem diga que espera o momento certo para que coisas aconteçam, mas será que existe? Em nosso bate papo, os participantes refletiram e deixaram a seguinte mensagem: "Não existe o momento certo, nem hora certa, sempre haverá algo que não está dentro dos planos, pois ainda temos fatores externos, os famosos imprevistos, então precisamos **COMEÇAR!**"
 
-**Determine o seu objetivo-** Vai fazer uma prova, um teste, ou manter-se atualizado? Considero esse tópico de extrema importância, pois através dele podemos definir o material de estudo.
+O fato é que o mundo não conspira contra nossos planos, porém não toma nenhuma ação a favor. Vivemos em um mundo VUCA (cheio de Volatilidade, incerteza, complexidade e ambiguidade) e não existe o momento ideal para começar.
 
-**Ferramentas/Material-** Definido o objetivo fica mais fácil determinar os meios para alcançá-los. Vai fazer uma prova oral? Que tal arrumar um gravador para que possa se avaliar melhor? Para manter-se atualizado utilize um cronograma de revisões, eu faço isso através de um aplicativo gratuito chamado Partiu Revisar. Se a sua necessidade for adquirir conhecimentos então recomendo 2, das inúmeras ferramentas disponíveis:
+Tenho certeza que muitas vezes você já se pegou evitando fazer algum tipo de atividade ou pela dificuldade na execução ou pelo tempo que levaria para concluir, mas lembre-se quanto antes começar, mais cedo irá concluir #missão cumprida #fica a dica!
 
-![](/images/1544464220306.jpeg)
+E o que você acha de criar uma rotina?! Isso mesmo, ROTINA. Vamos buscar a definição de rotina para otimizar nosso tempo (vista que para muitas pessoas ter rotina é algo extremamente "chato"), mas a rotina nada mais é do que a criação de hábitos, separe as tarefas estipulando um tempo para desenvolver e finalizar as mesmas, busque fazê-las no mesmo horário ao decorrer dos seus dias, importante que cada tarefa tenha um tempo de duração para ser executada e mais importante ainda jamais comece algo e não termine, ou pelo menos faça um plano para que tudo seja concluído.
 
-**A) Mapas mentais -** A associação de cores, imagens e frases curtas é um grande atrativo para que o seu cérebro memorize. Quem já estudou um pouco de marketing sabe que cada cor proporciona uma sensação ao nosso cérebro. O azul leva à confiança, o amarelo lembra felicidade, o verde representa esperança e o vermelho ação. Agora que você dispõe dessas informações pode e DEVE utilizar em seu favor.
+Um ponto importante a ser observado em sua rotina é a inclusão do não. Mas o que seria isso? É o fato de não aceitar fazer tarefas que não agreguem aos seus objetivos estabelecidos, ou seja, aceitar fazer "tudo" lhe sobrecarrega e a suas tarefas acabam ficando de lado; Se suas atividades são longas, diluí-las em etapas facilitará sua organização e a conclusão.
 
-![](/images/1544464222292.jpeg)
+Deixe de lado o perfeccionismo para as atividades menos importantes, ou que não agregam valor no resultado final, mantenha o foco no que realmente importa!
 
-**B) Resumos -** Esse instrumento só é útil caso você consiga sintetizar o conteúdo analisado. Não adianta fazer um resumo com 10 páginas de um material com 18, por exemplo. Todavia, se você conseguir sintetizar pode montar um material de consulta rico em informações.
+Com o tempo você perceberá que todas as ações são capazes de otimizar o tempo gasto na realização de suas tarefas, você trabalhará de modo eficiente sendo muito mais eficaz!
 
-Saliento que independente da técnica escolhida é preciso fazer um estudo ATIVO, e não passivo como somos acostumados.
+Administrar é o ato de planejar, organizar, agir, dirigir, e controlar – Administre seu tempo, e melhore sua qualidade de vida tanto no âmbito profissional quanto pessoal!
 
-Isso significa que precisamos pesquisar os termos desconhecidos, ter curiosidade de entender a lógica por trás daquele raciocínio, além de ter uma explicação própria para cada tópico estudado. O canal de estudos possui uma forte ligação com esse tópico, visto que vídeo aulas são típicas de um estudo passivo, mas podem ser associadas com anotações nos pdf’s/caderno, por exemplo, afim de equilibrar.
+### **Conclusão**
 
-![](/images/chave.png)
+Neste conteúdo foi possível notar que a percepção do tempo é relativa, pode ser notado em vários pontos de vista dependendo do fato gerador e o impacto que traz em nossas vidas, em nossa história e cultura.
 
-Finalizando com chave de ouro, como dizia um antigo professor de matemática, temos a **FREQUÊNCIA** do estudo. Aqui mora um grande segredo: a sua **regularidade** acessando um conteúdo é mais importante que a quantidade de horas que passa por dia dedicado àquele assunto.
+Crie o hábito de começar, determine as prioridades e aprenda a dizer **não**.
 
-Já mencionei os prejuízos que o estudo excessivo pode causar, dentre eles está o bloqueio ou a baixa absorção de conteúdo. Como você já sabe disso, provavelmente vai evitar o esgotamento a fim de **OTIMIZAR** o seu período de aprendizagem, então a regularidade deve ser a sua melhor amiga.
+Não aceitar todas as tarefas não quer dizer que você seja menos eficiente em cumprir demandas, e sim que deseja ser eficaz e prezar pela qualidade em executar suas tarefas.
 
-Não significa que você deve estudar mecanicamente, pelo contrário: cada sessão será um _novo momento_ para que você possa explorar e assimilar trechos importantes que podem ter passado despercebidos, estará usando a sua memória ao seu favor.
+#### "Menos às vezes quer dizer mais!"
 
-Espero que tenha aproveitado essas recomendações que fiz com base na minha experiência pessoal e tem se mostrado positiva. Gostaria de lembrar também que NÃO sou especialista, apenas resolvi reunir algumas informações úteis e divulgar.
+Administre seu tempo, e aumente sua qualidade de vida!
 
-Já testou alguma dessas ferramentas, ou discorda da sua eficácia? Comente aqui, será um prazer interagir.
+Este material foi utilizado como base em nosso Café Evolve realizado no dia 30/01/2021, para saber mais sobre nossos eventos acesse:
+
+[http://www.sympla.com.br/evolvecafe](http://www.sympla.com.br/evolvecafe "http://www.sympla.com.br/evolvecafe")
+
+Fica aqui a dica de algumas indicações de livros para você melhorar a gestão do seu tempo:
+
+* Produtividade Para Quem Quer Tempo - Geronimo Theml
+* Trabalhe 4 horas por semana - Timothy Ferriss
+
+**#gestaodotempo #CafeEvolve #Trocando Experiência #Networking**
