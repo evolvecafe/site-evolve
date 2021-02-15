@@ -10,7 +10,7 @@ title = "Gestão do Tempo: estratégias para a produtividade"
 type = "post"
 
 +++
-#### Quem nunca terminou o dia com uma pilha de coisas para fazer? Ou desejou que o dia tivesse mais de 24h?
+### Quem nunca terminou o dia com uma pilha de coisas para fazer? Ou desejou que o dia tivesse mais de 24h?
 
 Cada vez mais notamos como é comum pessoas fazerem esse questionamento, isso porque tudo ocorre de modo tão rápido, mudanças constantes e um aumento significativo em nossas demandas, em sua grande maioria “para ontem” e em caráter de urgência. Será possível conciliar as atividades do trabalho e ainda sobrar tempo para você?
 
@@ -18,9 +18,9 @@ Dentro desse contexto vamos fazer uma reflexão com dicas para gerenciar nosso t
 
 E para começar, que tal pela percepção do tempo com a resposta para essas duas perguntinhas?!
 
-#### **- Quando aconteceu a última morte por guilhotina na França?**
+> #### **Quando aconteceu a última morte por guilhotina na França?**
 
-#### **- Quando a saga “Star Wars” estreou no cinema?**
+> #### **Quando a saga “Star Wars” estreou no cinema?**
 
 Parece que um evento aconteceu muito antes do outro, certo?
 
@@ -28,7 +28,6 @@ Na verdade, Star Wars estreou em 1977 e a última morte por guilhotina na Franç
 
 Para saber mais: [https://history.uol.com.br/hoje-na-historia/guilhotina-cai-pela-ultima-vez-na-franca](https://history.uol.com.br/hoje-na-historia/guilhotina-cai-pela-ultima-vez-na-franca "https://history.uol.com.br/hoje-na-historia/guilhotina-cai-pela-ultima-vez-na-franca")
 
-  
 **Dinâmica: A noção que se tem do tempo nunca está correta. Dentro desse tema, observa-se que para uma questão: “Star Wars” o filme foi estreado há muito tempo atrás, porém para a mesma data em “relação a última morte por guilhotina”, trata-se de um fato considerado recente.**
 
 Pode-se notar que o tempo não pode ser percebido diretamente. Diante de dois fatores de impacto histórico social, a mesma data é vista de formas diferentes sendo uma recente e outra "há muito tempo".
@@ -36,6 +35,8 @@ Pode-se notar que o tempo não pode ser percebido diretamente. Diante de dois fa
 Com base nesse pensamento e trazendo isso para nossas atividades diárias, o que nos impede de começar, e colocar a mão na massa para ponta pé inicial em nossas tarefas, nossos planos? Há quem diga que espera o momento certo para que coisas aconteçam, mas será que existe? Em nosso bate papo, os participantes refletiram e deixaram a seguinte mensagem: "Não existe o momento certo, nem hora certa, sempre haverá algo que não está dentro dos planos, pois ainda temos fatores externos, os famosos imprevistos, então precisamos **COMEÇAR!**"
 
 O fato é que o mundo não conspira contra nossos planos, porém não toma nenhuma ação a favor. Vivemos em um mundo VUCA (cheio de Volatilidade, incerteza, complexidade e ambiguidade) e não existe o momento ideal para começar.
+
+> Apenas comece!
 
 Tenho certeza que muitas vezes você já se pegou evitando fazer algum tipo de atividade ou pela dificuldade na execução ou pelo tempo que levaria para concluir, mas lembre-se quanto antes começar, mais cedo irá concluir #missão cumprida #fica a dica!
 
@@ -70,4 +71,4 @@ Fica aqui a dica de algumas indicações de livros para você melhorar a gestão
 * Produtividade Para Quem Quer Tempo - Geronimo Theml
 * Trabalhe 4 horas por semana - Timothy Ferriss
 
-**#Gestãodotempo #CafeEvolve #Gestão #Networking** 
+**#Gestãodotempo #CafeEvolve #Gestão #Networking**
