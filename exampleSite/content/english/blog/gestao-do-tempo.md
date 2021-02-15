@@ -1,12 +1,12 @@
 +++
-author = "Franciele Alessandra Parro"
+author = "Franciele Alessandra Parro, Vitor Pio"
 bg_image = "/images/featue-bg.jpg"
 categories = ["Otimização do Tempo", "Desenvolvimento Pessoal"]
-date = 2020-12-28T21:17:00Z
+date = 2021-02-15T17:15:00Z
 description = "Um guia para a otimização do estudo"
 draft = true
 image = "/images/pexels-tran-547766.jpg"
-tags = []
+tags = ["Gestão do Tempo"]
 title = "Gestão do Tempo: estratégias para a produtividade"
 type = "post"
 
@@ -71,4 +71,4 @@ Fica aqui a dica de algumas indicações de livros para você melhorar a gestão
 * Produtividade Para Quem Quer Tempo - Geronimo Theml
 * Trabalhe 4 horas por semana - Timothy Ferriss
 
-**#gestaodotempo #CafeEvolve #Trocando Experiência #Networking**
+**#Gestãodotempo #CafeEvolve #Gestão #Networking** 
