@@ -1,5 +1,5 @@
 +++
-author = "Franciele Alessandra Parro; Vitor Pio"
+author = "Franciele Alessandra Parro"
 bg_image = "/images/featue-bg.jpg"
 categories = ["Otimização do Tempo", "Desenvolvimento Pessoal"]
 date = 2021-02-15T17:15:00Z
