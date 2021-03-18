@@ -2,12 +2,12 @@
 author = "Robert Adam"
 bg_image = "/images/featue-bg.jpg"
 categories = ["Desenvolvimento Pessoal", "Autoconhecimento"]
-date = 2020-12-28T01:00:00Z
+date = 2021-03-18T17:00:00Z
 description = "Uma filosofia para o compartilhamento."
 draft = true
 image = "/images/blog/blog-post-1.jpg"
 tags = ["Sócrates", "Peneiras da Sabedoria", "Sabedoria", "Compartilhamento de Informações"]
-title = "teste1"
+title = "Teste 1"
 type = "post"
 
 +++
