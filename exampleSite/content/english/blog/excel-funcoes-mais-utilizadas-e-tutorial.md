@@ -25,7 +25,7 @@ Se você conhece e usa, sabe que, frequentemente, nos deparamos com demandas de 
 
 **O Excel não é bicho de sete cabeças, tá?** Está mais para um pastor alemão: leal, ágil e que executa perfeitamente os comandos delegados.
 
-> _Com o tempo se torna desafio e diversão._
+> ### _Com o tempo se torna desafio e diversão._
 
 Acredito que uma das melhores práticas de aprendizado é trocar experiências. Pode ter certeza de uma coisa: sempre há novidades, atualizações e coisas novas a aprender.
 
@@ -34,3 +34,9 @@ No vídeo a seguir mostro de maneira otimizada como utilizar cada função. São
 Ah! Na lista abaixo do vídeo consta a descrição das funções e o minuto exato em que se inicia no vídeo.
 
 Se você é iniciante e aprender a aplicar estas funções adaptando à sua necessidade, sua vida no Excel já terá um bom caminho percorrido. Espero contribuir :)
+
+[https://www.youtube.com/watch?v=8znnx7eMIpc](https://www.youtube.com/watch?v=8znnx7eMIpc "Excel: Funções mais utilizadas")
+
+_Eu sou Marcela, tenho 10 anos de experiência em varejo nas áreas de Planejamento de Demanda, Logística, Compras. Gosto de escrever e compartilhar experiências._
+
+_Curta, compartilhe, comente :) Até a próxima!_
