@@ -2,9 +2,8 @@
 author = "Marcela Barreto"
 bg_image = "/images/featue-bg.jpg"
 categories = ["competência", "habilidades", "excel"]
-date = 2020-12-28T01:00:00Z
+date = 2021-03-18T03:00:00Z
 description = ""
-draft = true
 image = "/images/blog/blog-post-1.jpg"
 tags = ["planilhas", "excel"]
 title = "Excel: funções mais utilizadas e tutorial"
