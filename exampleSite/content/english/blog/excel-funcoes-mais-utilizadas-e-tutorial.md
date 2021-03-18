@@ -1,12 +1,12 @@
 +++
 author = "Marcela Barreto"
 bg_image = "/images/featue-bg.jpg"
-categories = ["Desenvolvimento Pessoal", "Autoconhecimento"]
+categories = ["competência", "habilidades", "excel"]
 date = 2020-12-28T01:00:00Z
 description = ""
 draft = true
 image = "/images/blog/blog-post-1.jpg"
-tags = ["Sócrates", "Peneiras da Sabedoria", "Sabedoria", "Compartilhamento de Informações"]
+tags = ["planilhas", "excel"]
 title = "Excel: funções mais utilizadas e tutorial"
 type = "post"
 
@@ -37,6 +37,6 @@ Se você é iniciante e aprender a aplicar estas funções adaptando à sua nece
 
 [https://www.youtube.com/watch?v=8znnx7eMIpc](https://www.youtube.com/watch?v=8znnx7eMIpc "Excel: Funções mais utilizadas")
 
-_Eu sou Marcela, tenho 10 anos de experiência em varejo nas áreas de Planejamento de Demanda, Logística, Compras. Gosto de escrever e compartilhar experiências._
+_Eu sou_ [_Marcela_](https://www.linkedin.com/in/marcelabarreto/)_, tenho 10 anos de experiência em varejo nas áreas de Planejamento de Demanda, Logística, Compras. Gosto de escrever e compartilhar experiências._
 
 _Curta, compartilhe, comente :) Até a próxima!_
