@@ -28,13 +28,11 @@ Se você conhece e usa, sabe que, frequentemente, nos deparamos com demandas de 
 
 Acredito que uma das melhores práticas de aprendizado é trocar experiências. Pode ter certeza de uma coisa: sempre há novidades, atualizações e coisas novas a aprender.
 
-No vídeo a seguir mostro de maneira otimizada como utilizar cada função. São funções básicas, porém indispensáveis.
-
-Ah! Na lista abaixo do vídeo consta a descrição das funções e o minuto exato em que se inicia no vídeo.
-
-Se você é iniciante e aprender a aplicar estas funções adaptando à sua necessidade, sua vida no Excel já terá um bom caminho percorrido. Espero contribuir :)
+No vídeo abaixo mostro de maneira otimizada como utilizar cada função. São funções básicas, porém indispensáveis.
 
 [https://www.youtube.com/watch?v=8znnx7eMIpc](https://www.youtube.com/watch?v=8znnx7eMIpc "Excel: Funções mais utilizadas")
+
+Se você é iniciante e aprender a aplicar estas funções adaptando à sua necessidade, sua vida no Excel já terá um bom caminho percorrido. Espero contribuir :)
 
 _Eu sou_ [_Marcela_](https://www.linkedin.com/in/marcelabarreto/)_, tenho 10 anos de experiência em varejo nas áreas de Planejamento de Demanda, Logística, Compras. Gosto de escrever e compartilhar experiências._
 
