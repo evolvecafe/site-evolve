@@ -1,9 +1,9 @@
 +++
-author = "Robert Adam"
+author = "Marcela Barreto"
 bg_image = "/images/featue-bg.jpg"
 categories = ["Desenvolvimento Pessoal", "Autoconhecimento"]
 date = 2020-12-28T01:00:00Z
-description = "Uma filosofia para o compartilhamento."
+description = ""
 draft = true
 image = "/images/blog/blog-post-1.jpg"
 tags = ["Sócrates", "Peneiras da Sabedoria", "Sabedoria", "Compartilhamento de Informações"]
@@ -11,14 +11,26 @@ title = "Excel: funções mais utilizadas e tutorial"
 type = "post"
 
 +++
-Hoje vi uma pessoa compartilhando um texto sobre as 3 peneiras da sabedoria, que é atribuída ao filósofo ateniense Sócrates, e essa história realmente me cativou e gostaria de compartilhar e enfatizar que este texto simples, mas profundo, pode trazer benefícios na maneira que lidamos com a quantidade imensa de informações que recebemos hoje e compartilhamos via redes sociais.
+Lembro quando ingressei no mercado de trabalho e tudo que sabia no Excel era planilhar as disciplinas e horários do colégio que havia terminado recentemente.
 
-O objetivo do texto é simples, antes de compartilhar ou contar uma história para outras pessoas, você deve utilizar 3 peneiras, sendo a primeira a da verdade, a segunda a da bondade/empatia e a última e não menos importante a da necessidade.
+Surgiu a necessidade de lidar com volume de dados, a partir daí mergulhei no universo Excel. Aprendi muito com colegas de trabalho, estudei _on-line_, fiz curso presencial em instituição reconhecida, mas sem dúvidas o que mais me trouxe conhecimento foi a prática diária e curiosidade. — Curiosidade, Marcela? — Sim, curiosidade!
 
-De forma resumida, ao receber uma informação, antes de compartilhar, e passar a informação na primeira peneira, que é verificar se a notícia é verdadeira, se a fonte é confiável e hoje contamos com diversos sites que fazem o fact-checking e informam se aquele fato é real ou não (Exemplos: [https://piaui.folha.uol.com.br/lupa/](https://piaui.folha.uol.com.br/lupa/ "https://piaui.folha.uol.com.br/lupa/"), [https://aosfatos.org/](https://aosfatos.org/ "https://aosfatos.org/") etc).
+Sempre penso que existe uma maneira mais prática e inteligente de usar a ferramenta. Quem trabalha com Excel não pode sofrer preenchendo células, é para inserir lógica! Deixar a ferramenta trabalhar o operacional e que, desta maneira, você tenha o maior tempo possível para análise, crítica e sugestões. Parece óbvio, não é? Mas é bom falar porque eu vejo muita gente "batendo cabeça".
 
-A segunda peneira é a da empatia, ou bondade, é se colocar no lugar da outra pessoa e responder a uma simples pergunta (“E se a notícia fosse sobre você, você compartilharia?).
+Percebo ao longo da carreira que, mesmo no ambiente corporativo, o Excel ainda é um tabu para alguns colegas. Muitos só precisam perder o medo, aprender e praticar.
 
-A última peneira é a da necessidade. Aquela notícia precisa ser compartilhada? Qual o benefício que o seu compartilhamento trará para você ou para terceiros?
+O Excel é um grande otimizador e facilitador do cotidiano no trabalho, ou apenas já faz tanto parte da minha vida profissional que não consigo imaginar outras vidas sem ele (risos).
 
-É isso, são três ensinamentos simples mais se forem aplicados por cada um de nós tenho certeza que o impacto no mundo será extremamente positivo principalmente na época polarizada em que estamos vivendo.
+Se você conhece e usa, sabe que, frequentemente, nos deparamos com demandas de colegas com alguma dificuldade. Em questão de segundos você soluciona e eles te agradecem como se você tivesse matado um bicho de sete cabeças.
+
+**O Excel não é bicho de sete cabeças, tá?** Está mais para um pastor alemão: leal, ágil e que executa perfeitamente os comandos delegados.
+
+> _Com o tempo se torna desafio e diversão._
+
+Acredito que uma das melhores práticas de aprendizado é trocar experiências. Pode ter certeza de uma coisa: sempre há novidades, atualizações e coisas novas a aprender.
+
+No vídeo a seguir mostro de maneira otimizada como utilizar cada função. São funções básicas, porém indispensáveis.
+
+Ah! Na lista abaixo do vídeo consta a descrição das funções e o minuto exato em que se inicia no vídeo.
+
+Se você é iniciante e aprender a aplicar estas funções adaptando à sua necessidade, sua vida no Excel já terá um bom caminho percorrido. Espero contribuir :)
